@@ -1,0 +1,41 @@
+body {
+  background-color: #EC7272;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  margin: 0 200px;
+}
+
+h1 {
+  font-family: 'Arvo', serif;
+  font-size: 3.5em;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+header {
+  margin-bottom: 100px;
+}
+
+.basic-data, .hard-questions, .last-words {
+  margin: 50px 0;
+}
+
+.description {
+  font-size: 1.5em;
+  font-weight: bolder;
+  text-align: left;
+  margin: 0 0 0 40%;
+  padding: 0;
+}
+
+.evee {
+  position: relative;
+  left: 30%;
+  top: 185px;
+}
+
+.pikachu {
+  position: relative;
+  right: 30%;
+  top: 85px;
+}
